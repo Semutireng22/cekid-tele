@@ -1,0 +1,28 @@
+{
+  "name": "cekid-tele",
+  "version": "1.0.1",
+  "description": "A Node.js project to fetch Telegram account ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semutireng22/cekid-tele"
+  },
+  "keywords": [
+    "id",
+    "telegram",
+    "cek",
+    "eoc"
+  ],
+  "author": "slamet wibowo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Semutireng22/cekid-tele/issues"
+  },
+  "homepage": "https://github.com/Semutireng22/cekid-tele#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
