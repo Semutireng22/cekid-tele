@@ -1,5 +1,3 @@
-Sure, here's a README.md file with a tutorial on how to use your Telegram ID Fetcher Node.js project:
-
 # Telegram ID Fetcher
 
 A Node.js project to fetch Telegram account ID.
