@@ -1,6 +1,5 @@
 Sure, here's a README.md file with a tutorial on how to use your Telegram ID Fetcher Node.js project:
 
-```markdown
 # Telegram ID Fetcher
 
 A Node.js project to fetch Telegram account ID.
@@ -43,7 +42,6 @@ Once the bot is running, you can interact with it on Telegram. Here's how to use
 
 ## Example
 
-```
 > /start
 Bot: Hello! Send any message to get your Telegram account ID.
 
@@ -52,7 +50,6 @@ Bot: To get your Telegram account ID, simply send any message.
 
 > Hello
 Bot: Your Telegram account ID is: 123456789.
-```
 
 ## Contributing
 
@@ -61,6 +58,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, fee
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to modify the content according to your preferences and project specifics.
